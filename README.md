@@ -4,6 +4,8 @@ I have been a Manual QA Tester for 4 years. My testing journey started in gamede
 
 Over time, I began introducing my own improvements to automate and speed up my work, and this process fascinated me enough to dive deeper into test automation.
 
+Programming Languages: Python
+
 ### Fun Facts:
 * I have two cats, one is bald 
 * In my free time, I play video games, draw, and watch movies and TV series
