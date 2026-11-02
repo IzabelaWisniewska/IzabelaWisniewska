@@ -31,7 +31,6 @@ All test cases in this repository follow a standardized, structured layout to en
 | **Actual Result** | Observed behavior during execution *(populated post-execution)* | *Pass / Fail (with attached log/screenshot if failed)* |
 | **Design Technique** | QA methodology applied during scenario design | `Equivalence Partitioning`, `BVA`, `Error Guessing` |
 
----
 
 ### 📝 Example Test Case Scenario
 
