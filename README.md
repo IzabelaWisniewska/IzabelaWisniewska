@@ -44,6 +44,7 @@ This repository showcases practical examples of my testing approach, documentati
 | Test Reports | | Test execution summaries |
 | Game & 3D QA | | Asset and animation quality assurance |
 | API Testing | | Basic REST API testing examples |
+| :--- | :--- | :--- |
 
 **Disclaimer**
 
