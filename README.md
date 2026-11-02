@@ -36,7 +36,7 @@ This repository showcases practical examples of my testing approach, documentati
 
 | **Section** | **Link** | **Description** |
 | :---: | :---: | :---: |
-| <div align="left">Test Cases</div> | <div align="left">[Link](#)</div> | <div align="left">Sample test scenarios</div> |
+| <div align="left">Test Cases</div> | <div align="left">[Link](./Test_Cases/)</div> | <div align="left">Sample test scenarios</div> |
 | <div align="left">Bug Reports</div> | <div align="left">[Link](#)</div> | <div align="left">Structured defect documentation</div> |
 | <div align="left">Test Plans</div> | <div align="left">[Link](#)</div> | <div align="left">Testing strategies and scope</div> |
 | <div align="left">Checklists</div> | <div align="left">[Link](#)</div> | <div align="left">UI, regression, and visual QA</div> |
