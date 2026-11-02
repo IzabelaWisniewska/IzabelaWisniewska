@@ -42,7 +42,7 @@ This repository showcases practical examples of my testing approach, documentati
 | <div align="left">Checklists</div> | <div align="left">[Checklists](./Checklists/)</div> | <div align="left">UI, regression, and visual QA</div> |
 | <div align="left">Exploratory Testing</div> | <div align="left">[Link](#)</div> | <div align="left">Exploratory testing sessions</div> |
 | <div align="left">Test Reports</div> | <div align="left">[Link](#)</div> | <div align="left">Test execution summaries</div> |
-| <div align="left">Game & 3D QA</div> | <div align="left">[Link](#)</div> | <div align="left">Asset and animation quality assurance</div> |
+| <div align="left">SQL Queries</div> | <div align="left">[Link](#)</div> | <div align="left">Database validation, joins, and aggregation queries</div> |
 | <div align="left">API Testing</div> | <div align="left">[Link](#)</div> | <div align="left">Basic REST API testing examples</div> |
 
 
