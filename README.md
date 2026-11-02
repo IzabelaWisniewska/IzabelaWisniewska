@@ -30,6 +30,8 @@ This repository showcases practical examples of my testing approach, documentati
 
 **Additional:** Python, Windows Batch Scripting
 
+---
+
 ### **Portfolio Contents**
 
 | Section | Description |
