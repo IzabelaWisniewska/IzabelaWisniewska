@@ -20,17 +20,17 @@ This repository showcases practical examples of my testing approach, documentati
 
 ### **Skills & Tools**
 
-Testing: Manual Testing, Functional Testing, Regression Testing, Exploratory Testing, Visual QA
+**Testing:** Manual Testing, Functional Testing, Regression Testing, Exploratory Testing, Visual QA
 
-Tools: Jira, Xray, GitLab, ShotGrid, Blender
+**Tools:** Jira, Xray, GitLab, ShotGrid, Blender
 
-Additional: Python, Windows Batch Scripting
+**Additional:** Python, Windows Batch Scripting
 
 ### **Portfolio Contents**
 
-Section
+| Section | 
 
-Description
+| Description |
 
 Test Cases
 
