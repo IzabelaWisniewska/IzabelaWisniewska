@@ -6,6 +6,8 @@ I am a QA professional with 4 years of experience in software quality assurance,
 
 This repository showcases practical examples of my testing approach, documentation, and problem-solving skills.
 
+---
+
 ### **About Me**
 
 * 4 years of experience in Manual QA
@@ -17,6 +19,8 @@ This repository showcases practical examples of my testing approach, documentati
 * Experience with 3D assets, animations, textures, and visual quality assurance
 
 * Cross-functional collaboration with developers and artists
+
+---
 
 ### **Skills & Tools**
 
