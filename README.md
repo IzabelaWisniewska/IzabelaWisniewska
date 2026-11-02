@@ -35,15 +35,15 @@ This repository showcases practical examples of my testing approach, documentati
 ### **Portfolio Contents**
 
 | **Section** | **Link** | **Description** |
-| :---: | :---: | :--- |
-| Test Cases | [Link](#) | Sample test scenarios |
-| Bug Reports | [Link](#) | Structured defect documentation |
-| Test Plans | [Link](#) | Testing strategies and scope |
-| Checklists | [Link](#) | UI, regression, and visual QA |
-| Exploratory Testing | [Link](#) | Exploratory testing sessions |
-| Test Reports | [Link](#) | Test execution summaries |
-| Game & 3D QA | [Link](#) | Asset and animation quality assurance |
-| API Testing | [Link](#) | Basic REST API testing examples |
+| :---: | :---: | :---: |
+| <div align="left">Test Cases</div> | <div align="left">Link</div> | <div align="left">Sample test scenarios</div> |
+| <div align="left">Bug Reports</div> | <div align="left">Link</div> | <div align="left">Structured defect documentation</div> |
+| <div align="left">Test Plans</div> | <div align="left">Link</div> | <div align="left">Testing strategies and scope</div> |
+| <div align="left">Checklists</div> | <div align="left">Link</div> | <div align="left">UI, regression, and visual QA</div> |
+| <div align="left">Exploratory Testing</div> | <div align="left">Link</div> | <div align="left">Exploratory testing sessions</div> |
+| <div align="left">Test Reports</div> | <div align="left">Link</div> | <div align="left">Test execution summaries</div> |
+| <div align="left">Game & 3D QA</div> | <div align="left">Link</div> | <div align="left">Asset and animation quality assurance</div> |
+| <div align="left">API Testing</div> | <div align="left">Link</div> | <div align="left">Basic REST API testing examples</div> |
 
 
 **Disclaimer**
