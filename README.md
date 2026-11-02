@@ -51,3 +51,8 @@ This repository showcases practical examples of my testing approach, documentati
 
 All examples in this repository are fictional or generalized and created for demonstration purposes. No confidential company or client information is included.
 
+---
+
+### **Courses**
+
+*  Introduction to Project Management with PRINCE2
