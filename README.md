@@ -18,7 +18,7 @@ This repository showcases practical examples of my testing approach, documentati
 
 * Cross-functional collaboration with developers and artists
 
-**Skills & Tools**
+### **Skills & Tools**
 
 Testing: Manual Testing, Functional Testing, Regression Testing, Exploratory Testing, Visual QA
 
@@ -26,7 +26,7 @@ Tools: Jira, Xray, GitLab, ShotGrid, Blender
 
 Additional: Python, Windows Batch Scripting
 
-**Portfolio Contents**
+### **Portfolio Contents**
 
 Section
 
