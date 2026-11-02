@@ -46,7 +46,6 @@ This repository showcases practical examples of my testing approach, documentati
 | <div align="left">API Testing</div> | <div align="left">[Link](#)</div> | <div align="left">Basic REST API testing examples</div> |
 
 
-> **Disclaimer**
 > **All examples in this repository are fictional or generalized and created for demonstration purposes. No confidential company or client information is included.**
 
 ---
