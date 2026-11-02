@@ -7,11 +7,10 @@ This directory contains sample functional test cases demonstrating structured te
 
 ## 📂 Overview of Test Scenarios
 
-| File Name | Module / Feature | Description |
-| :--- | :--- | :--- |
-| `TC_01_Authentication.md` | User Login & Registration | Functional scenarios covering positive paths, invalid credentials, and security limits. |
-| `TC_02_Checkout_Process.md` | E-commerce / Cart | End-to-end shopping flow, price calculations, and boundary value checks. |
-| `TC_03_3D_Asset_Validation.md` | Graphic & 3D QA | Technical verification scenarios for models, textures, and animations. |
+* **Web** -
+  login
+  ui elements
+  localization
 
 ---
 ## 📐 Test Case Standard Structure
@@ -30,18 +29,6 @@ All test cases in this repository follow a standardized, structured layout to en
 | **Expected Result** | The precise outcome indicating test success | *User is redirected to dashboard; 200 OK status code returned* |
 | **Actual Result** | Observed behavior during execution *(populated post-execution)* | *Pass / Fail (with attached log/screenshot if failed)* |
 | **Design Technique** | QA methodology applied during scenario design | `Equivalence Partitioning`, `BVA`, `Error Guessing` |
-
-
-### 📝 Example Test Case Scenario
-
-#### `TC_3D_001` - Visual & Mesh Validation of 3D Model
-* **Priority:** High
-* **Pre-conditions:** Asset `hero_character_v2.fbx` loaded in Blender 4.x / target engine.
-* **Steps:**
-  1. Inspect geometry mesh density and topology.
-  2. Verify UV mapping for texture stretching.
-  3. Validate texture resolution and material assignment.
-* **Expected Result:** Mesh topology has no non-manifold geometry, UVs are packed correctly without overlapping errors, and material shaders render without artifacts.
 
 ---
 
