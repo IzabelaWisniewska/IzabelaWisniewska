@@ -9,11 +9,11 @@ This directory contains sample functional test cases demonstrating structured te
 
 * **Web** - test cases for the web application:
   
-  **Login** - Positive and negative authentication paths, input validation, password reset flow, account lockout rules
+  * **Login** - Positive and negative authentication paths, input validation, password reset flow, account lockout rules
   
   **UI Elements** - Button states, component visibility, form field interactions, layout responsiveness, navigation accuracy
   
-  Localization - Language switching, translated string completeness, text truncation checks, date and currency formatting
+  **Localization** - Language switching, translated string completeness, text truncation checks, date and currency formatting
 
 ---
 ## Test Case Standard Structure
