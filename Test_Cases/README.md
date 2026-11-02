@@ -21,8 +21,8 @@ This directory contains sample functional test cases demonstrating structured te
 All test cases in this repository follow a standardized, structured layout to ensure clarity, repeatability, and ease of execution.
 
 | Attribute | Description | Example / Allowed Values |
-| :--- | :--- | :--- |
-| **Test Case ID** | Unique identifier for tracking and traceability | `TC_AUTH_001`, `TC_UI_004` |
+| :---: | :---: | :---: |
+| <div align="left">**Test Case ID** | <div align="left">Unique identifier for tracking and traceability | <div align="left">`TC_AUTH_001`, `TC_UI_004` |
 | **Title/Summary** | Short, descriptive title explaining what is being tested | *Verify user login with valid credentials* |
 | **Template** | Formatting type: Steps + Results | |
 | **Type** | Type of testing | `Security`, `Functional`|
