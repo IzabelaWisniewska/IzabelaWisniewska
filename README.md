@@ -28,9 +28,7 @@ This repository showcases practical examples of my testing approach, documentati
 
 ### **Portfolio Contents**
 
-| Section | 
-
-| Description |
+| Section | Description |
 
 Test Cases
 
