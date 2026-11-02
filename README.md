@@ -26,7 +26,7 @@ This repository showcases practical examples of my testing approach, documentati
 
 **Testing:** Manual Testing, Functional Testing, Regression Testing, Exploratory Testing, Visual QA
 
-**Tools:** Jira, Xray, GitLab, ShotGrid, Blender
+**Tools:** Jira, Xray, Confluence, GitLab, ShotGrid, Blender, TestRail
 
 **Additional:** Python, Windows Batch Scripting
 
