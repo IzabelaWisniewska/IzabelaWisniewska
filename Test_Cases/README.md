@@ -48,19 +48,3 @@ Each test case included in this repository follows industry best practices:
 
 > *Note: All examples provided in this section are generic and created for portfolio demonstration purposes.*
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left" width="20%">Attribute</th>
-      <th align="left" width="40%">Description</th>
-      <th align="left" width="40%">Example / Allowed Values</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="left"><strong>Execution Status</strong></td>
-      <td align="left">Outcome</td>
-      <td align="left" style="white-space: nowrap;"><code>Passed</code> , <code>Failed</code> , <code>Blocked</code> , <code>Not Executed</code> , <code>Retest</code> , <code>Skipped</code></td>
-    </tr>
-  </tbody>
-</table>
