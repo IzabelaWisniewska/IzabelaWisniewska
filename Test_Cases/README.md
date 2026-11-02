@@ -22,16 +22,21 @@ All test cases in this repository follow a standardized, structured layout to en
 
 | Attribute | Description | Example / Allowed Values |
 | :--- | :--- | :--- |
-| **Test Case ID** | Unique identifier for tracking and traceability | `TC_AUTH_001`, `TC_3D_004` |
+| **Test Case ID** | Unique identifier for tracking and traceability | `TC_AUTH_001`, `TC_UI_004` |
 | **Title / Summary** | Short, descriptive title explaining what is being tested | *Verify user login with valid credentials* |
-| **Module / Feature** | Functional area or component under test | `Authentication`, `Checkout`, `3D Assets` |
+| **Template** | Formatting type: Steps + Results | |
+| **Type** | Type of testing | `Security`, `Functional`|
+| **Status** | Lifecycle status | `Draft`, `Approved`, `Review`|
+| **Defects** | Linked issues or defect IDs | |
+| **Execution Status** | Outcome | `Passed`, `Failed`, `Blocked`, `Not Executed`, `Retest`, `Skipped` |
+| **Assigned To** | Responsible QA Engineer | |
+| **Module / Feature** | Functional area or component under test | `Authentication`, `Checkout` |
 | **Priority / Severity** | Importance and business/technical impact of the test | `High` / `Medium` / `Low` |
 | **Pre-conditions** | Prerequisites that must be met before test execution | *User is registered; Web application is loaded* |
 | **Test Data** | Specific input parameters or asset files required | `Email: test@example.com`, `Model: hero_mesh.fbx` |
 | **Test Steps** | Numbered, sequential actions to perform the test | **1.** Open login page<br>**2.** Enter valid email and password<br>**3.** Click "Sign In" button |
 | **Expected Result** | The precise outcome indicating test success | *User is redirected to dashboard; 200 OK status code returned* |
 | **Actual Result** | Observed behavior during execution *(populated post-execution)* | *Pass / Fail (with attached log/screenshot if failed)* |
-| **Design Technique** | QA methodology applied during scenario design | `Equivalence Partitioning`, `BVA`, `Error Guessing` |
 
 ---
 
