@@ -54,6 +54,6 @@ This repository showcases practical examples of my testing approach, documentati
 
 ### **Courses**
 
-* **Introduction to Project Management with PRINCE2**
+* **[Introduction to Project Management with PRINCE2](https://www.udemy.com/share/102Q0U3@ybocBifIZ7sNZBmtJrHW6yL3prXQfpOkEn9kgLIHd61k8Dh1slZmLYOTSxDZBRa_ZA==/)** 
   
    Skills: PRINCE2 methodology with Agile techniques
