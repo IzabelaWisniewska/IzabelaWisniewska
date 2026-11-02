@@ -5,7 +5,7 @@ This directory contains sample functional test cases demonstrating structured te
 
 ---
 
-## 📂 Overview of Test Scenarios
+## Overview of Test Scenarios
 
 * **Web** -
   login
@@ -13,7 +13,7 @@ This directory contains sample functional test cases demonstrating structured te
   localization
 
 ---
-## 📐 Test Case Standard Structure
+## Test Case Standard Structure
 
 All test cases in this repository follow a standardized, structured layout to ensure clarity, repeatability, and ease of execution.
 
@@ -32,7 +32,7 @@ All test cases in this repository follow a standardized, structured layout to en
 
 ---
 
-## 🛠️ Testing Methodology & Standards
+## Testing Methodology & Standards
 Each test case included in this repository follows industry best practices:
 * **Traceability:** Clear alignment with functional requirements.
 * **Boundary Value Analysis (BVA):** Testing limits on input fields (e.g., password length, discount codes).
