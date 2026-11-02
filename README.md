@@ -6,19 +6,19 @@ I am a QA professional with 4 years of experience in software quality assurance,
 
 This repository showcases practical examples of my testing approach, documentation, and problem-solving skills.
 
-About Me
+**About Me**
 
-4 years of experience in Manual QA
+* 4 years of experience in Manual QA
 
-Experience working in Agile development environments
+* Experience working in Agile development environments
 
-Test planning, execution, regression, and exploratory testing
+* Test planning, execution, regression, and exploratory testing
 
-Experience with 3D assets, animations, textures, and visual quality assurance
+* Experience with 3D assets, animations, textures, and visual quality assurance
 
-Cross-functional collaboration with developers and artists
+* Cross-functional collaboration with developers and artists
 
-Skills & Tools
+**Skills & Tools**
 
 Testing: Manual Testing, Functional Testing, Regression Testing, Exploratory Testing, Visual QA
 
@@ -26,7 +26,7 @@ Tools: Jira, Xray, GitLab, ShotGrid, Blender
 
 Additional: Python, Windows Batch Scripting
 
-Portfolio Contents
+**Portfolio Contents**
 
 Section
 
