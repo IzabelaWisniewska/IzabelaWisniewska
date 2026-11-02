@@ -28,7 +28,7 @@ All test cases in this repository follow a standardized, structured layout to en
 | <div align="left">**Type**  | <div align="left">Type of testing | <div align="left">`Security`, `Functional`|
 | <div align="left">**Status**  | <div align="left">Lifecycle status | <div align="left">`Draft`, `Approved`, `Review`|
 | <div align="left">**Defects**  | <div align="left">Linked issues or defect IDs | |
-| <div align="left">**Execution Result**  | <div align="left">Outcome | <div align="left">`Passed`, `Failed`, `Blocked`, `Not Executed`, `Retest`|
+| <div align="left">**Test Status**  | <div align="left">Outcome | <div align="left">`Passed`, `Failed`, `Blocked`, `Not Executed`, `Retest`|
 | <div align="left">**Assigned To**  | <div align="left">Responsible QA Engineer | |
 | <div align="left">**Module/Feature**  | <div align="left">Functional area or component under test | <div align="left">`Authentication`, `Checkout` |
 | <div align="left">**Priority/Severity**  | <div align="left">Importance and business/technical impact of the test | <div align="left">`High` / `Medium` / `Low` |
