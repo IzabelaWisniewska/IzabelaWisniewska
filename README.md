@@ -34,43 +34,20 @@ This repository showcases practical examples of my testing approach, documentati
 
 ### **Portfolio Contents**
 
-| Section | Description |
++---------------------+--------------------------------------+
+| Section             | Description                          |
++---------------------+--------------------------------------+
+| Test Cases          | Sample test scenarios                |
+| Bug Reports         | Structured defect documentation      |
+| Test Plans          | Testing strategies and scope         |
+| Checklists          | UI, regression, and visual QA        |
+| Exploratory Testing | Exploratory testing sessions         |
+| Test Reports        | Test execution summaries             |
+| Game & 3D QA        | Asset and animation quality assurance|
+| API Testing         | Basic REST API testing examples      |
++---------------------+--------------------------------------+
 
----
-
-Test Cases
-
-Sample test scenarios
-
-Bug Reports
-
-Structured defect documentation
-
-Test Plans
-
-Testing strategies and scope
-
-Checklists
-
-UI, regression, and visual QA
-
-Exploratory Testing
-
-Exploratory testing sessions
-
-Test Reports
-
-Test execution summaries
-
-Game & 3D QA
-
-Asset and animation quality assurance
-
-API Testing
-
-Basic REST API testing examples
-
-Disclaimer
+**Disclaimer**
 
 All examples in this repository are fictional or generalized and created for demonstration purposes. No confidential company or client information is included.
 
