@@ -10,7 +10,7 @@ This repository showcases practical examples of my testing approach, documentati
 
 ### **About Me**
 
-* 4 years of experience in Manual QA
+* Over 4 years of experience in Manual QA and team leadership
 
 * Experience working in Agile development environments
 
@@ -19,6 +19,8 @@ This repository showcases practical examples of my testing approach, documentati
 * Experience with 3D assets, animations, textures, and visual quality assurance
 
 * Cross-functional collaboration with developers and artists
+  
+* Strong focus on process optimization through Python automation scripts and batch file scripting to streamline test execution
 
 ---
 
