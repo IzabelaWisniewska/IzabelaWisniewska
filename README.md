@@ -30,6 +30,8 @@ This repository showcases practical examples of my testing approach, documentati
 
 | Section | Description |
 
+---
+
 Test Cases
 
 Sample test scenarios
