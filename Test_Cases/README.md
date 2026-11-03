@@ -20,7 +20,7 @@ This directory contains sample functional test cases demonstrating structured te
 
 All test cases in this repository follow a standardized, structured layout to ensure clarity, repeatability, and ease of execution.
 
-| # Attribute | #Description | #Example / Allowed Values |
+| Attribute | Description | Example / Allowed Values |
 | :---: | :---: | :---: |
 | <div align="left">**Test Case ID**  | <div align="left">Unique identifier for tracking and traceability | <div align="left">`TC_AUTH_001`, `TC_UI_004` |
 | <div align="left">**Title/Summary**  | <div align="left">Short, descriptive title explaining what is being tested | <div align="left">*Verify user login with valid credentials* |
