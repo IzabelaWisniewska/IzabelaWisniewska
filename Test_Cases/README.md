@@ -11,9 +11,9 @@ This directory contains sample functional test cases demonstrating structured te
   
   * **[Login](./Web/Login/)</div>** - Positive and negative authentication paths, input validation, password reset flow, account lockout rules
   
-  * **[UI Elements](./UI_Elements/)</div>** - Button states, component visibility, form field interactions, layout responsiveness, navigation accuracy
+  * **[UI Elements](./Web/UI_Elements/)</div>** - Button states, component visibility, form field interactions, layout responsiveness, navigation accuracy
   
-  * **[Localization](./Localization/)</div>** - Language switching, translated string completeness, text truncation checks, date and currency formatting
+  * **[Localization](./Web/Localization/)</div>** - Language switching, translated string completeness, text truncation checks, date and currency formatting
 
 ---
 ## Test Case Standard Structure
