@@ -18,3 +18,35 @@ The repository is organized into three core functional desktop modules:
 >  Each module directory includes a dedicated sub-README detailing specific execution guidelines and coverage scope.
 
  ---
+
+## 🖥️ Desktop Browser Targets
+
+Testing is standardized across major modern desktop browsers:
+
+* **Google Chrome** (Latest stable)
+* **Microsoft Edge** (Latest stable)
+* **Apple Safari** (macOS latest stable)
+
+ ---
+
+## 📐 Supported Desktop Resolutions
+
+To ensure layout integrity and flawless user experience across various screen sizes, test scenarios target the following standard desktop resolutions:
+
+* **2560 × 1440** (QHD / 2K displays)
+* **1920 × 1080** (Full HD – Primary baseline)
+* **1366 × 768** (Standard laptop resolution)
+* **1280 × 720** (HD ready / minimum desktop target)
+
+---
+
+## ⚡ Execution Strategy
+
+All test scripts are structured for manual execution while maintaining high readiness for future test automation implementation:
+
+* Atomic, isolated test steps for clean execution flows.
+* Detailed metadata (IDs, priorities, types, and expected outcomes).
+* Clear precondition declarations and precise test data sets.
+* Traceability framework supporting integration with bug-tracking systems (e.g., Jira).
+
+---
