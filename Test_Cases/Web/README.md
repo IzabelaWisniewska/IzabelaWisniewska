@@ -49,4 +49,4 @@ All test scripts are structured for manual execution while maintaining high read
 * Clear precondition declarations and precise test data sets.
 * Traceability framework supporting integration with bug-tracking systems (e.g., Jira).
 
----
+
