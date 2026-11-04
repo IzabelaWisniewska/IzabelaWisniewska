@@ -19,7 +19,7 @@ The repository is organized into three core functional desktop modules:
 
  ---
 
-## 🖥️ Desktop Browser Targets
+##  Desktop Browser Targets
 
 Testing is standardized across major modern desktop browsers:
 
@@ -29,7 +29,7 @@ Testing is standardized across major modern desktop browsers:
 
  ---
 
-## 📐 Supported Desktop Resolutions
+## Supported Desktop Resolutions
 
 To ensure layout integrity and flawless user experience across various screen sizes, test scenarios target the following standard desktop resolutions:
 
@@ -40,7 +40,7 @@ To ensure layout integrity and flawless user experience across various screen si
 
 ---
 
-## ⚡ Execution Strategy
+##  Execution Strategy
 
 All test scripts are structured for manual execution while maintaining high readiness for future test automation implementation:
 
