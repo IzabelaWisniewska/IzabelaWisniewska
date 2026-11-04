@@ -7,7 +7,7 @@ This directory contains sample functional test cases demonstrating structured te
 
 ## Overview of Test Scenarios
 
-* **[Web](#)</div>** - test cases for the web application:   
+* **[Web](./Web/)</div>** - test cases for the web application:   
   
   * **[Login](#)</div>** - Positive and negative authentication paths, input validation, password reset flow, account lockout rules
   
